@@ -13,4 +13,5 @@ Este verano, como alumno interno, hice la interfaz de un simulador de opinión s
 ### **Trainout ChatBot**
 Actualmente también trabajo en el desarrollo de un ChatBot para la empresa Trainout, a modo de prácticas para mi carrera.
 
-Suelo usar Python, JavaScript y PostgreSQL. Si quieres hablar, estoy en [LinkedIn](https://www.linkedin.com/in/telmolopez).
+Suelo usar Python, JavaScript y PostgreSQL. 
+Si quieres hablar, estoy en [LinkedIn](https://www.linkedin.com/in/telmolopez).
