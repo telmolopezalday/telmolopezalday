@@ -1,4 +1,4 @@
-# Hola, soy Telmo, de Donostia. 
+# Soy Telmo, de Donostia. 
 
 Estudio ingeniería en Telecomunicación + Inteligencia Artificial en Tecnun, Universidad de Navarra (4º).
 
